@@ -1,4 +1,5 @@
 CRUD Sederhana
+PHP version: 7.4.3 
 
 ###################
 What is CodeIgniter
